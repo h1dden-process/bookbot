@@ -20,7 +20,7 @@ def get_book_text(filepath):
 
 def main(): 
 
-    book = get_book_text(f'')
+    book = get_book_text(book_path)
 
     print("============ BOOKBOT ============")
 
