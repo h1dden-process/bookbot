@@ -1,4 +1,5 @@
 from stats import *
+import sys
 
 def get_book_text(filepath): 
 
