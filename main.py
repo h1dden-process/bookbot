@@ -10,7 +10,7 @@ def get_book_text(filepath):
 
 def main(): 
 
-    book = get_book_text('./books/frankenstein.txt')
+    book = get_book_text(f'')
 
     print("============ BOOKBOT ============")
 
